@@ -1,7 +1,7 @@
 /* 
     Author: Kenji Tamane
     01/16/2020
-    Collaborators: Kenji Tamane, JP Jenson
+    Collaborators: Kenji Tamane, JP Jensen
     Purpose: To print my name
 */
 
