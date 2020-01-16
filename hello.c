@@ -8,7 +8,7 @@
 int main(void) {
 
     printf("Kenji Tamane\n");
+    printf("Computer Science\n")
 
     return 0;
 }
-
