@@ -1,10 +1,11 @@
 /* 
     Author: Kenji Tamane
     01/16/2020
-    Collaborators: Kenji Tamane, JP Jensen
+    Collaborators: Kenji Tamane, J.P Jensen
     Purpose: To print my name
 */
 
+#include <stdio.h>
 int main(void) {
 
     printf("Kenji Tamane\n");
