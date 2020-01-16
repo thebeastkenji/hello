@@ -2,7 +2,7 @@
 *Author: Kenji Tamane
 *01/16/2020
 *Collaborators: Kenji Tamane, J.P. Jensen
-*Purpose: To print my name
+*Purpose: To print my name and major
 */
 
 #include <stdio.h>
