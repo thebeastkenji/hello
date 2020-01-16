@@ -10,6 +10,8 @@ int main(void) {
 
     printf("Kenji Tamane\n");
     printf("Computer Science\n")
+    printf("J.P. Jensen\n")
+    printf("Computer Science")
 
     return 0;
 }
